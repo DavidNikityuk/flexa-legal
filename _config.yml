@@ -1,0 +1,7 @@
+title: Flexa
+description: Умови використання, політика конфіденційності та підтримка застосунку Flexa
+lang: uk
+theme: jekyll-theme-primer
+permalink: pretty
+exclude:
+  - README.md
